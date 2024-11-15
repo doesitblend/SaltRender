@@ -8,7 +8,7 @@ docker compose.yml file.
 
 ## Example Build Command
 ```
-$ docker build --no-cache  -t testing:render -f Dockerfile 
+$ docker build --no-cache  -t testing:render -f Dockerfile .
 ```
 
 # Example usage
